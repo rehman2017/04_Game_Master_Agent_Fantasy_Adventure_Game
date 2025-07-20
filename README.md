@@ -18,5 +18,5 @@ Built using **OpenAI Agent SDK + Runner** with **Chainlit UI**.
 
 ---
 
-👤 **Zubair Ahmed**  
-🔗 [linkedin.com/in/zubairdev](https://www.linkedin.com/posts/zubair-ahmed-06aa13194_just-completed-3-ai-multi-agent-assignments-activity-7352210495245815808-0cDd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC22XZIBQ0a5Md61VVi5F2CIGwUHTVIsTa0)
+👤 **Engr Sir Abdul Rehman Ansari--------Motivational Debator and Graphics Description**  
+🔗 [linkedin.com](https://www.linkedin.com/in/abdul-rehman-75323b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
